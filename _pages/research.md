@@ -2,9 +2,6 @@
 permalink: /publications/
 title: "Research"
 excerpt: "Research"
-redirect_from: 
-  - /research/
-  - /research.html
 author_profile: true
 ---
 
