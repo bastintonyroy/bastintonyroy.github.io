@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tony Savarimuthu's website"
+title                    : "Tony Savarimuthu"
 title_separator          : "-"
 name                     : &name "Bastin Tony Roy Savarimuthu"
 description              : &description "Academic at the Univeristy of Otago"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tony Savarimuthu"
   avatar           : "profile_picture.jpg"
-  bio              : "Associate Professor, University of Otago"
-  location         : "Dunedin"
+  bio              : "Associate Professor, University of Otago, Dunedin, New Zealand"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=0__bwK0AAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://bastintonyroy.github.io/"
+  github           : #"https://bastintonyroy.github.io/"
   google_plus      :
   keybase          :
   instagram        :
