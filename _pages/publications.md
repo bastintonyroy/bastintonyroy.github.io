@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-This page is also under construction.
+**This page is under construction**
 
 <ol start="3" reversed="reversed">
     <li>Put on shoes</li>
@@ -57,7 +57,7 @@ This page is also under construction.
 1\. K Venkatasubramanian, BTR Savarimuthu, and MV Dasari [Teaching and using PSP in a software engineering course: an experience report](/files/papers/2001/2001_1.pdf){:target="_blank"}. In Software Engineering Education and Training Annual Conference.
 
 
-<!--- {% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -66,4 +66,4 @@ This page is also under construction.
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
---->
+-->
