@@ -6,6 +6,8 @@ author_profile: true
 ---
 **This page is under construction**
 
+Checking if this is working!
+
 I study human factors as applied to artificial and real agents (e.g., robots and humans respectively). Thus, his research spans two main areas: multi-agent systems and software engineering.
 
 In multi-agent systems he is interested in the design and development of simulation-based systems focussing on improving collaboration and cooperation of interacting agents (e.g., humans and robots). Particularly, his research efforts have focussed on creating socially aware artificial agents that are able to interact with humans and artificial agents in a team setting considering human factors such as social norms, expectations, trust and reputation. His earlier PhD work focussed on approaches for creating norm-aware systems where agents are able to infer and learn norms from other interacting agents.
