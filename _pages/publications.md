@@ -27,7 +27,11 @@ author_profile: true
 <div id="2019"></div>
 2019
 --
-* Paper 1
+<ol start="3" reversed="reversed">
+    <li>Put on shoes</li>
+    <li>Open door</li>
+    <li>Step outside</li>
+</ol>
 
 2004
 --
