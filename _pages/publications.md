@@ -33,7 +33,7 @@ author_profile: true
 * Paper 1
 * Paper 2
 
-<div id="2019"></div>
+
 2019
 --
 8\. M Purvis, BTR Savarimuthu, M Purvis [A multi-agent based workflow system embedded with web services](/files/papers/2004/2004_8.pdf){:target="_blank"}, Second international workshop on Collaboration Agents: Autonomous Agents for Collaborative Environments (COLA 2004), pp. 55-62
