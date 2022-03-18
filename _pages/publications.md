@@ -30,8 +30,17 @@ author_profile: true
 2019
 --
 
-{:start="8"} 
-> 8. M Purvis, BTR Savarimuthu, M Purvis [A multi-agent based workflow system embedded with web services](/files/papers/2004/2004_8.pdf){:target="_blank"}, Second international workshop on Collaboration Agents: Autonomous Agents for Collaborative Environments (COLA 2004), pp. 55-62
+<ol>
+    <li value="5"> 
+    <blockquote> M Purvis, BTR Savarimuthu, M Purvis [A multi-agent based workflow system embedded with web services](/files/papers/2004/2004_8.pdf){:target="_blank"}, Second international workshop on Collaboration Agents: Autonomous Agents for Collaborative Environments (COLA 2004), pp. 55-62 
+    </blockquote><br/>
+    </li>
+    <li value="4"> 
+    <blockquote> M Purvis, BTR Savarimuthu, M Purvis [A multi-agent based workflow system embedded with web services](/files/papers/2004/2004_8.pdf){:target="_blank"}, Second international workshop on Collaboration Agents: Autonomous Agents for Collaborative Environments (COLA 2004), pp. 55-62 
+    </blockquote>
+    </li>
+</ol>
+> 8. M Purvis, BTR Savarimuthu, M Purvis [A multi-agent based workflow system embedded with web services](/files/papers/2004/2004_8.pdf){:target="_blank"}, Second international workshop on Collaboration Agents: Autonomous Agents for Collaborative Environments (COLA 2004), pp. 55-62 
 
  
 > 7. M Purvis, M Purvis, A Haidar, B Savarimuthu [A Distributed Workflow System with Autonomous Components](/files/papers/2004/2004_7.pdf){:target="_blank"}, 7th Pacific Rim International Workshop on Multi-Agents, PRIMA 2004, Auckland, New Zealand, August 8-13, 2004, Revised Selected Papers. Lecture Notes in Computer Science 3371, Springer 2005, ISBN 3-540-25340-8, pp. 193 - 205
