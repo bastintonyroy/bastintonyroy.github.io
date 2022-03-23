@@ -37,11 +37,11 @@ author_profile: true
 
 >[5]\. BTR Savarimuthu, M Purvis [A collaborative multi-agent based workflow system](/files/papers/2004/5.pdf){:target="_blank"}. Knowledge-Based Intelligent Information and Engineering Systems, 8th International Conference, KES2004, Wellington, New Zealand, September, pp. 1187-1193
 
-> [4]\. BTR Savarimuthu, MK Purvis, M De Oliveira, M Purvis [Towards secure interaction in agent societies](/files/papers/2004/3.pdf){:target="_blank"}. Second Annual Conference on Privacy, Security and Trust (PST), October 13-15, 2004, Wu Centre, University of New Brunswick, Fredericton, New Brunswick, Canada, pp. 143-148
+> [4]\. BTR Savarimuthu, MK Purvis, M De Oliveira, M Purvis [Towards secure interaction in agent societies](/files/papers/2004/4.pdf){:target="_blank"}. Second Annual Conference on Privacy, Security and Trust (PST), October 13-15, 2004, Wu Centre, University of New Brunswick, Fredericton, New Brunswick, Canada, pp. 143-148
 
->[3]\. BTR Savarimuthu, M Purvis [Towards a multi-lingual workflow system: a practical outlook](/files/papers/2004/2.pdf){:target="_blank"}. Proceedings of the second workshop on Australasian information security, Data Mining and Web Intelligence, and Software Internationalisation - Volume 32, pp. 205-210
+>[3]\. BTR Savarimuthu, M Purvis [Towards a multi-lingual workflow system: a practical outlook](/files/papers/2004/3.pdf){:target="_blank"}. Proceedings of the second workshop on Australasian information security, Data Mining and Web Intelligence, and Software Internationalisation - Volume 32, pp. 205-210
 
->[2]\. BTR Savarimuthu, M Purvis, M Fleurke [Monitoring and controlling of a multi-agent based workflow system](/files/papers/2004/1.pdf){:target="_blank"}. Proceedings of the second workshop on Australasian information security, Data Mining and Web Intelligence, and Software Internationalisation - Volume 32, pp. 127-132
+>[2]\. BTR Savarimuthu, M Purvis, M Fleurke [Monitoring and controlling of a multi-agent based workflow system](/files/papers/2004/2.pdf){:target="_blank"}. Proceedings of the second workshop on Australasian information security, Data Mining and Web Intelligence, and Software Internationalisation - Volume 32, pp. 127-132
 
 2001
 --
