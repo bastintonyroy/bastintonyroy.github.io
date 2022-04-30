@@ -5,11 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 **This page is under construction**
-
+* [2007](#2007)
 * [2006](#2006)
 * [2005](#2005)
 * [2004](#2004)
 * [2001](#2001)
+
+2007
+--
+Savarimuthu, B.T.R., Purvis, M., Cranefield, S. and Purvis, M., 2007, May. 
+>[23]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M.,  [Mechanisms for norm emergence in multiagent societies.](/files/papers/2007/23.pdf){:target="_blank"}, In: Proc of the 6th international joint conference on Autonomous agents and multiagent systems, pp. 1104-1106, 2007.
+
+>[22]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M.,  [Role model based mechanism for norm emergence in artificial agent societies.](/files/papers/2007/22.pdf){:target="_blank"}, In: Proc. of the International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 203-217). Springer, Berlin, Heidelberg, pp. 203-217, 2007.
+
+>[21]\. Deng, X., Foukia, N. and Savarimuthu, B.T.R.,  [Building privacy infrastructure for culturally sensitive information of New Zealand Maori.](/files/papers/2007/21.pdf){:target="_blank"}, In: Proc. of the workshop of HP Software University Association (HP-SUA), pp. 265-270, 2007.
+
+>[20]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M.A.,  [How do norms emerge in multi-agent societies? Mechanisms design.](/files/papers/2007/20.pdf){:target="_blank"}, Information Science discussion papers, https://ourarchive.otago.ac.nz/handle/10523/907, 2006. 
 
 2006
 --
