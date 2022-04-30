@@ -13,6 +13,8 @@ author_profile: true
 
 2006
 --
+>[17]\. Savarimuthu, B.T.R., Purvis, M. and Purvis, M.A. [Agent based web service composition in the context of a supply-chain based workflow.](/files/papers/2006/17.pdf) In: Proc. of the First International Workshop on Coordination of Inter-Organizational Workflow:  Agent and Semantic Web based Models (CIOW), Hakodate, Japan, 8th May, pp. 27-34, 2006.  
+
 >[16]\. Savarimuthu B.T.R., Purvis, M.A. and Purvis, M.K. [Creating ontologies for a collaborative, multi-agent based workflow system](/files/papers/2006/16.pdf) In: R. Katarzyniak (ed.), Ontologies and Soft Methods in Knowledge Management, Advanced Knowledge International, Adelaide, Australia, Vol 4, ISBN 0-9752150-2-7, pp. 201-218, 2006.
 
 >[15]\. Ehrler, L., Fleurke, M., Purvis, M. and Savarimuthu, B.T.R., 2006. [Agent-based workflow management systems (WfMSs)](/files/papers/2006/15.pdf) Information Systems and E-Business Management, 4(1), pp.5-23.
