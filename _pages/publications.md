@@ -12,8 +12,7 @@ author_profile: true
 * [2001](#2001)
 
 2007
---
-Savarimuthu, B.T.R., Purvis, M., Cranefield, S. and Purvis, M., 2007, May. 
+-- 
 >[23]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M.,  [Mechanisms for norm emergence in multiagent societies.](/files/papers/2007/23.pdf){:target="_blank"}, In: Proc of the 6th international joint conference on Autonomous agents and multiagent systems, pp. 1104-1106, 2007.
 
 >[22]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M.,  [Role model based mechanism for norm emergence in artificial agent societies.](/files/papers/2007/22.pdf){:target="_blank"}, In: Proc. of the International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 203-217). Springer, Berlin, Heidelberg, pp. 203-217, 2007.
