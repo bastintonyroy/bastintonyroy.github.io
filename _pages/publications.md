@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 **This page is under construction**
+* [2011](#2011)
 * [2010](#2010)
 * [2009](#2009)
 * [2008](#2008)
@@ -13,6 +14,20 @@ author_profile: true
 * [2005](#2005)
 * [2004](#2004)
 * [2001](#2001)
+
+2011
+--
+>>[43]\. Savarimuthu, B.T.R. and Cranefield, S., [Norm creation, spreading and emergence: A survey of simulation models of norms in multi-agent systems.](/files/papers/2009/30.pdf) Multiagent and Grid Systems, 7(1), pp.21-54, 2011.
+
+>>[42]\. Savarimuthu, B.T.R., Arulanandam, R. and Purvis, M., [Aspects of active norm learning and the effect of lying on norm emergence in agent societies.](/files/papers/2009/30.pdf) In International Conference on Principles and Practice of Multi-Agent Systems (pp. 36-50). Springer, Berlin, Heidelberg, 2011.
+
+>> [41]\. Savarimuthu, B.T.R., [Norm learning in multi-agent societies](/files/papers/2009/30.pdf), In the Information Science Discussion Paper Series, number 2011/05, ISSN 1177-455X, 10 pages, 2011.
+
+>>[40]\.Savarimuthu, B.T.R., 2011. [Mechanisms for norm emergence and norm identification in multi-agent societies](/files/papers/2009/30.pdf), Doctoral dissertation, University of Otago, 2011.
+
+>>[39]\. Savarimuthu, B.T.R., Arulanandam, R. and Savarimuthu, S., [Emergence of a sharing norm in a simulated hunter-gatherer society.](/files/papers/2009/30.pdf) In 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology (Vol. 2, pp. 34-37). IEEE, 2011.
+
+>>[38]\. Savarimuthu, B.T.R., Purvis, M. and Verhagen, H., [An agent-based simulation of employing social norms in energy conservation in households.](/files/papers/2009/30.pdf) In International Conference on Principles and Practice of Multi-Agent Systems (pp. 16-31). Springer, Berlin, Heidelberg, 2011.
 
 2010
 --
