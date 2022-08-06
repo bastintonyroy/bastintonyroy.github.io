@@ -5,11 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 **This page is under construction**
+* [2009](#2009)
+* [2008](#2008)
 * [2007](#2007)
 * [2006](#2006)
 * [2005](#2005)
 * [2004](#2004)
 * [2001](#2001)
+
+2009
+--
+>[32]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.K. and Purvis, M.A., [Norm emergence in agent societies formed by dynamically changing networks.](/files/papers/2009/30.pdf) Web Intelligence and Agent Systems: An International Journal, 7(3), pp.223-232, 2009.
+
+>[31]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Internal agent architecture for norm identification.](/files/papers/2009/29.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 241-256). Springer, Berlin, Heidelberg, 2009.
+
+>[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](/files/papers/2008/28.pdf) Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
+
+>[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2008/27.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
+
+>[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2008/26.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
+
+2008
+--
+>[27]\. Savarimuthu, B.T.R., Purvis, M.A. and Cranefield, S.  [Norm emergence in multi-agent societies](/files/papers/2008/27.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 195-206, 2008.	
+
+>[26]\. Purvis, M.A., Ebadi, T. and Savarimuthu, B.T.R.  [An Agent-Based Library Management System Using RFID Technology](/files/papers/2008/26.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 171-181, 2008.
+
+>[25]\. Purvis, M. and Savarimuthu, B.T.R., [Proceedings of the first international conference on Computer-mediated social networking (ICCMSN).](https://link.springer.com/content/pdf/10.1007/978-3-642-02276-0.pdf), 2008. 
+
+>[24]\. Alaali, A., & Savarimuthu, B. T. R., [Vector Opinion Dynamics: An extended model for consensus in social networks.](/files/papers/2008/24.pdf) In: Proc of the International Conference on Web Intelligence and Intelligent Agent Technology, Vol. 3, pp. 394-397, 2008.
 
 2007
 -- 
