@@ -51,9 +51,9 @@ author_profile: true
 
 >[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](https://drops.dagstuhl.de/opus/volltexte/2009/1905/pdf/09121.CranefieldStephen.Paper.1905.pdf) Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
 
->[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2008/29.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
+>[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2009/29.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
 
->[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2008/28.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
+>[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2009/28.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
 
 2008
 --
