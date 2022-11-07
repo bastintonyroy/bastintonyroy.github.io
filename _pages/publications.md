@@ -45,15 +45,15 @@ author_profile: true
 
 2009
 --
->[32]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.K. and Purvis, M.A., [Norm emergence in agent societies formed by dynamically changing networks.](/files/papers/2009/30.pdf) Web Intelligence and Agent Systems: An International Journal, 7(3), pp.223-232, 2009.
+>[32]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.K. and Purvis, M.A., [Norm emergence in agent societies formed by dynamically changing networks.](/files/papers/2009/32.pdf) Web Intelligence and Agent Systems: An International Journal, 7(3), pp.223-232, 2009.
 
->[31]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Internal agent architecture for norm identification.](/files/papers/2009/29.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 241-256). Springer, Berlin, Heidelberg, 2009.
+>[31]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Internal agent architecture for norm identification.](/files/papers/2009/31.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 241-256). Springer, Berlin, Heidelberg, 2009.
 
->[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](/files/papers/2008/28.pdf) Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
+>[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](https://drops.dagstuhl.de/opus/volltexte/2009/1905/pdf/09121.CranefieldStephen.Paper.1905.pdf) Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
 
->[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2008/27.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
+>[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2008/29.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
 
->[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2008/26.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
+>[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2008/28.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
 
 2008
 --
