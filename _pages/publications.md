@@ -57,9 +57,9 @@ author_profile: true
 
 2008
 --
->[27]\. Savarimuthu, B.T.R., Purvis, M.A. and Cranefield, S.  [Norm emergence in multi-agent societies](/files/papers/2008/27.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 195-206, 2008.	
+>[27]\. Purvis, M.A., Ebadi, T. and Savarimuthu, B.T.R.  [An Agent-Based Library Management System Using RFID Technology](/files/papers/2008/27.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 171-181, 2008.
 
->[26]\. Purvis, M.A., Ebadi, T. and Savarimuthu, B.T.R.  [An Agent-Based Library Management System Using RFID Technology](/files/papers/2008/26.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 171-181, 2008.
+>[26]\. Savarimuthu, B.T.R., Purvis, M.A. and Cranefield, S.  [Norm emergence in multi-agent societies](/files/papers/2008/26.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 195-206, 2008.	
 
 >[25]\. Purvis, M. and Savarimuthu, B.T.R., [Proceedings of the first international conference on Computer-mediated social networking (ICCMSN).](https://link.springer.com/content/pdf/10.1007/978-3-642-02276-0.pdf), 2008. 
 
