@@ -15,55 +15,57 @@ author_profile: true
 * [2004](#2004)
 * [2001](#2001)
 
+
+
 2011
 --
->[43]\. Savarimuthu, B.T.R. and Cranefield, S., [Norm creation, spreading and emergence: A survey of simulation models of norms in multi-agent systems.](/files/papers/2011/44.pdf) Multiagent and Grid Systems, 7(1), pp.21-54, 2011.
+>[43]\. Savarimuthu, B.T.R. and Cranefield, S., [Norm creation, spreading and emergence: A survey of simulation models of norms in multi-agent systems.](/files/papers/2011/44.pdf){:target="_blank"}, Multiagent and Grid Systems, 7(1), pp.21-54, 2011.
 
->[42]\. Savarimuthu, B.T.R., Arulanandam, R. and Purvis, M., [Aspects of active norm learning and the effect of lying on norm emergence in agent societies.](/files/papers/2011/43.pdf) In International Conference on Principles and Practice of Multi-Agent Systems (pp. 36-50). Springer, Berlin, Heidelberg, 2011.
+>[42]\. Savarimuthu, B.T.R., Arulanandam, R. and Purvis, M., [Aspects of active norm learning and the effect of lying on norm emergence in agent societies.](/files/papers/2011/43.pdf){:target="_blank"}, In International Conference on Principles and Practice of Multi-Agent Systems (pp. 36-50). Springer, Berlin, Heidelberg, 2011.
 
->[41]\. Savarimuthu, B.T.R., [Norm learning in multi-agent societies](/files/papers/2011/42.pdf), In the Information Science Discussion Paper Series, number 2011/05, ISSN 1177-455X, 10 pages, 2011.
+>[41]\. Savarimuthu, B.T.R., [Norm learning in multi-agent societies](/files/papers/2011/42.pdf){:target="_blank"}, In the Information Science Discussion Paper Series, number 2011/05, ISSN 1177-455X, 10 pages, 2011.
 
->[40]\.Savarimuthu, B.T.R., 2011. [Mechanisms for norm emergence and norm identification in multi-agent societies](https://ourarchive.otago.ac.nz/bitstream/handle/10523/1790/savarimuthuBastinTR2011PhD.pdf;sequence=4), Doctoral dissertation, University of Otago, 2011.
+>[40]\.Savarimuthu, B.T.R., 2011. [Mechanisms for norm emergence and norm identification in multi-agent societies](https://ourarchive.otago.ac.nz/bitstream/handle/10523/1790/savarimuthuBastinTR2011PhD.pdf;sequence=4){:target="_blank"}, Doctoral dissertation, University of Otago, 2011.
 
->[39]\. Savarimuthu, B.T.R., Arulanandam, R. and Savarimuthu, S., [Emergence of a sharing norm in a simulated hunter-gatherer society.](/files/papers/2011/40.pdf) In 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology (Vol. 2, pp. 34-37). IEEE, 2011.
+>[39]\. Savarimuthu, B.T.R., Arulanandam, R. and Savarimuthu, S., [Emergence of a sharing norm in a simulated hunter-gatherer society.](/files/papers/2011/40.pdf){:target="_blank"}, In 2011 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology (Vol. 2, pp. 34-37). IEEE, 2011.
 
->[38]\. Savarimuthu, B.T.R., Purvis, M. and Verhagen, H., [An agent-based simulation of employing social norms in energy conservation in households.](/files/papers/2011/39.pdf) In International Conference on Principles and Practice of Multi-Agent Systems (pp. 16-31). Springer, Berlin, Heidelberg, 2011.
+>[38]\. Savarimuthu, B.T.R., Purvis, M. and Verhagen, H., [An agent-based simulation of employing social norms in energy conservation in households.](/files/papers/2011/39.pdf){:target="_blank"}, In International Conference on Principles and Practice of Multi-Agent Systems (pp. 16-31). Springer, Berlin, Heidelberg, 2011.
 
 2010
 --
->[38]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., 2010. [Norm identification in multi-agent societies.](/files/papers/2010/38.pdf), In the Information Science Discussion Paper Series, number 2010/03, ISSN 1177-455X, 34 pages, 2010.
+>[38]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., 2010. [Norm identification in multi-agent societies.](/files/papers/2010/38.pdf){:target="_blank"}, In the Information Science Discussion Paper Series, number 2010/03, ISSN 1177-455X, 34 pages, 2010.
 
->[37]\.Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Obligation norm identification in agent societies.](http://jasss.soc.surrey.ac.uk/13/4/3.html) Journal of Artificial Societies and Social Simulation, 13(4), 16 pages, 2010. 
+>[37]\.Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Obligation norm identification in agent societies.](http://jasss.soc.surrey.ac.uk/13/4/3.html){:target="_blank"}, Journal of Artificial Societies and Social Simulation, 13(4), 16 pages, 2010. 
 
->[36]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M., [A data mining approach to identify obligation norms in agent societies.](/files/papers/2010/36.pdf) In International Workshop on Agents and Data Mining Interaction, pp. 43-58). Springer, Berlin, Heidelberg, 2010.
+>[36]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M., [A data mining approach to identify obligation norms in agent societies.](/files/papers/2010/36.pdf){:target="_blank"}, In International Workshop on Agents and Data Mining Interaction, pp. 43-58). Springer, Berlin, Heidelberg, 2010.
 
->[35]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying conditional norms in multi-agent societies.](/files/papers/2010/35.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems, pp. 285-302. Springer, Berlin, Heidelberg, 2010.
+>[35]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying conditional norms in multi-agent societies.](/files/papers/2010/35.pdf){:target="_blank"}, In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems, pp. 285-302. Springer, Berlin, Heidelberg, 2010.
 
->[34]\. Savarimuthu, S., Purvis, M., Purvis, M. and Savarimuthu, B.T.R., 2010, May. [Mechanisms for the self-organization of peer groups in agent societies.](/files/papers/2010/34.pdf) In International Workshop on Multi-Agent Systems and Agent-Based Simulation, pp. 93-107. Springer, Berlin, Heidelberg, 2010.
+>[34]\. Savarimuthu, S., Purvis, M., Purvis, M. and Savarimuthu, B.T.R., 2010, May. [Mechanisms for the self-organization of peer groups in agent societies.](/files/papers/2010/34.pdf){:target="_blank"}, In International Workshop on Multi-Agent Systems and Agent-Based Simulation, pp. 93-107. Springer, Berlin, Heidelberg, 2010.
 
->[33]\. Savarimuthu, S., Purvis, M., Savarimuthu, B.T.R. and Purvis, M., [Gossip-based self-organising open agent societies.](/files/papers/2010/33.pdf) In International Conference on Principles and Practice of Multi-Agent Systems, pp. 105-120. Springer, Berlin, Heidelberg, 2010.
+>[33]\. Savarimuthu, S., Purvis, M., Savarimuthu, B.T.R. and Purvis, M., [Gossip-based self-organising open agent societies.](/files/papers/2010/33.pdf){:target="_blank"}, In International Conference on Principles and Practice of Multi-Agent Systems, pp. 105-120. Springer, Berlin, Heidelberg, 2010.
 
 2009
 --
->[32]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.K. and Purvis, M.A., [Norm emergence in agent societies formed by dynamically changing networks.](/files/papers/2009/32.pdf) Web Intelligence and Agent Systems: An International Journal, 7(3), pp.223-232, 2009.
+>[32]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.K. and Purvis, M.A., [Norm emergence in agent societies formed by dynamically changing networks.](/files/papers/2009/32.pdf){:target="_blank"}, Web Intelligence and Agent Systems: An International Journal, 7(3), pp.223-232, 2009.
 
->[31]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Internal agent architecture for norm identification.](/files/papers/2009/31.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 241-256). Springer, Berlin, Heidelberg, 2009.
+>[31]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Internal agent architecture for norm identification.](/files/papers/2009/31.pdf){:target="_blank"}, In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems (pp. 241-256). Springer, Berlin, Heidelberg, 2009.
 
->[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](https://drops.dagstuhl.de/opus/volltexte/2009/1905/pdf/09121.CranefieldStephen.Paper.1905.pdf) Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
+>[30]\. Savarimuthu, B.T.R. and Cranefield, S., [A categorization of simulation works on norms. In Dagstuhl seminar proceedings.](https://drops.dagstuhl.de/opus/volltexte/2009/1905/pdf/09121.CranefieldStephen.Paper.1905.pdf){:target="_blank"}, Schloss Dagstuhl-Leibniz-Zentrum für Informatik. 2009.
 
->[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2009/29.pdf). In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
+>[29]\. Savarimuthu, B.T.R., Purvis, M., Purvis, M. and Cranefield, S., 2008, May. [Social norm emergence in virtual agent societies](/files/papers/2009/29.pdf){:target="_blank"}, In: Proc. of the international Workshop on Declarative Agent Languages and Technologies,  DALT, pp. 18-28. Springer, Berlin, Heidelberg, 2009.
 
->[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2009/28.pdf) In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
+>[28]\. Savarimuthu, B.T.R.,Purvis, M.A., & Purvis, M.K., [Social norm emergence in virtual agent societies.](/files/papers/2009/28.pdf){:target="_blank"}, In Proc. of the 7th international joint conference on Autonomous agents and multiagent systems, pp. 1521–1524, 2009.
 
 2008
 --
->[27]\. Purvis, M.A., Ebadi, T. and Savarimuthu, B.T.R.  [An Agent-Based Library Management System Using RFID Technology](/files/papers/2008/27.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 171-181, 2008.
+>[27]\. Purvis, M.A., Ebadi, T. and Savarimuthu, B.T.R.  [An Agent-Based Library Management System Using RFID Technology](/files/papers/2008/27.pdf){:target="_blank"}, In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 171-181, 2008.
 
->[26]\. Savarimuthu, B.T.R., Purvis, M.A. and Cranefield, S.  [Norm emergence in multi-agent societies](/files/papers/2008/26.pdf), In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 195-206, 2008.	
+>[26]\. Savarimuthu, B.T.R., Purvis, M.A. and Cranefield, S.  [Norm emergence in multi-agent societies](/files/papers/2008/26.pdf){:target="_blank"}, In: D. Krol and N. T. Nguyen (Eds.), Intelligence Integration in Distributed Knowledge Management, Information Science Reference,  Hershey, USA, pp. 195-206, 2008.	
 
->[25]\. Purvis, M. and Savarimuthu, B.T.R., [Proceedings of the first international conference on Computer-mediated social networking (ICCMSN).](https://link.springer.com/content/pdf/10.1007/978-3-642-02276-0.pdf), 2008. 
+>[25]\. Purvis, M. and Savarimuthu, B.T.R., [Proceedings of the first international conference on Computer-mediated social networking (ICCMSN).](https://link.springer.com/content/pdf/10.1007/978-3-642-02276-0.pdf){:target="_blank"}, 2008. 
 
->[24]\. Alaali, A., & Savarimuthu, B. T. R., [Vector Opinion Dynamics: An extended model for consensus in social networks.](/files/papers/2008/24.pdf) In: Proc of the International Conference on Web Intelligence and Intelligent Agent Technology, Vol. 3, pp. 394-397, 2008.
+>[24]\. Alaali, A., & Savarimuthu, B. T. R., [Vector Opinion Dynamics: An extended model for consensus in social networks.](/files/papers/2008/24.pdf){:target="_blank"}, In: Proc of the International Conference on Web Intelligence and Intelligent Agent Technology, Vol. 3, pp. 394-397, 2008.
 
 2007
 -- 
