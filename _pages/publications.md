@@ -31,17 +31,17 @@ author_profile: true
 
 2010
 --
->>[38]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., 2010. [Norm identification in multi-agent societies.](/files/papers/2009/30.pdf), In the Information Science Discussion Paper Series, number 2010/03, ISSN 1177-455X, 34 pages, 2010.
+>[38]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., 2010. [Norm identification in multi-agent societies.](/files/papers/2010/38.pdf), In the Information Science Discussion Paper Series, number 2010/03, ISSN 1177-455X, 34 pages, 2010.
 
->>[37]\.Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Obligation norm identification in agent societies.](http://jasss.soc.surrey.ac.uk/13/4/3.html) Journal of Artificial Societies and Social Simulation, 13(4), 16 pages, 2010. 
+>[37]\.Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Obligation norm identification in agent societies.](http://jasss.soc.surrey.ac.uk/13/4/3.html) Journal of Artificial Societies and Social Simulation, 13(4), 16 pages, 2010. 
 
->>[36]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M., [A data mining approach to identify obligation norms in agent societies.](/files/papers/2009/30.pdf) In International Workshop on Agents and Data Mining Interaction, pp. 43-58). Springer, Berlin, Heidelberg, 2010.
+>[36]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M. and Purvis, M., [A data mining approach to identify obligation norms in agent societies.](/files/papers/2010/36.pdf) In International Workshop on Agents and Data Mining Interaction, pp. 43-58). Springer, Berlin, Heidelberg, 2010.
 
->>[35]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying conditional norms in multi-agent societies.](/files/papers/2009/30.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems, pp. 285-302. Springer, Berlin, Heidelberg, 2010.
+>[35]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying conditional norms in multi-agent societies.](/files/papers/2010/35.pdf) In International Workshop on Coordination, Organizations, Institutions, and Norms in Agent Systems, pp. 285-302. Springer, Berlin, Heidelberg, 2010.
 
->>[34]\. Savarimuthu, S., Purvis, M., Purvis, M. and Savarimuthu, B.T.R., 2010, May. [Mechanisms for the self-organization of peer groups in agent societies.](/files/papers/2009/30.pdf) In International Workshop on Multi-Agent Systems and Agent-Based Simulation, pp. 93-107. Springer, Berlin, Heidelberg, 2010.
+>[34]\. Savarimuthu, S., Purvis, M., Purvis, M. and Savarimuthu, B.T.R., 2010, May. [Mechanisms for the self-organization of peer groups in agent societies.](/files/papers/2010/34.pdf) In International Workshop on Multi-Agent Systems and Agent-Based Simulation, pp. 93-107. Springer, Berlin, Heidelberg, 2010.
 
->[33]\. Savarimuthu, S., Purvis, M., Savarimuthu, B.T.R. and Purvis, M., [Gossip-based self-organising open agent societies.](/files/papers/2009/30.pdf) In International Conference on Principles and Practice of Multi-Agent Systems, pp. 105-120. Springer, Berlin, Heidelberg, 2010.
+>[33]\. Savarimuthu, S., Purvis, M., Savarimuthu, B.T.R. and Purvis, M., [Gossip-based self-organising open agent societies.](/files/papers/2010/33.pdf) In International Conference on Principles and Practice of Multi-Agent Systems, pp. 105-120. Springer, Berlin, Heidelberg, 2010.
 
 2009
 --
