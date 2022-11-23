@@ -30,8 +30,6 @@ author_profile: true
 2014
 --
 
-
-
 2013
 --
 >[51]\. 14.	Andrighetto, G., Cranefield, S., Conte, R., Purvis, M.K., Purvis, M.A., Savarimuthu, B.T.R. & Villatoro, D., [(Social) Norms and Agent-Based Simulation.](/files/papers/2011/54.pdf), Agreement Technologies, pp. 181-189. Springer Netherlands, 2013. 
