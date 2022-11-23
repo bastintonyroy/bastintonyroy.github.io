@@ -30,27 +30,34 @@ author_profile: true
 2014
 --
 
+
+
+
+Testing still!
+
 2013
 --
->[51]\. 14.	Andrighetto, G., Cranefield, S., Conte, R., Purvis, M.K., Purvis, M.A., Savarimuthu, B.T.R. & Villatoro, D., [(Social) Norms and Agent-Based Simulation.](/files/papers/2011/54.pdf), Agreement Technologies, pp. 181-189. Springer Netherlands, 2013. 
+>[51]\. 14.	Andrighetto, G., Cranefield, S., Conte, R., Purvis, M.K., Purvis, M.A., Savarimuthu, B.T.R. & Villatoro, D., [(Social) Norms and Agent-Based Simulation.](/files/papers/2013/54.pdf){:target="_blank"}, Agreement Technologies, pp. 181-189. Springer Netherlands, 2013. 
 
->[51]\. Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip.](/files/papers/2011/53.pdf) Minds and Machines 23(4): 419-441, 2013.
+>[51]\. Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip.](/files/papers/2013/53.pdf){:target="_blank"}, Minds and Machines 23(4): 419-441, 2013.
 
->[51]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying prohibition norms in agent societies](/files/papers/2011/52.pdf), Artificial Intelligence and Law, Issue 21, Volume 1, pp. 1-46, 2013.	
+>[51]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying prohibition norms in agent societies](/files/papers/2013/52.pdf){:target="_blank"}, Artificial Intelligence and Law, Issue 21, Volume 1, pp. 1-46, 2013.	
 
->[51]\. Ghose, A., & Savarimuthu, B.T.R., [Norms as objectives: Revisiting compliance management in multi-agent systems.](/files/papers/2011/51.pdf) In Coordination, organizations, institutions, and norms in agent systems VIII: Lecture notes in artificial intelligence (Vol. 7756). (pp. 105-122). Berlin, Germany: Springer. 2013.	
+>[51]\. Ghose, A., & Savarimuthu, B.T.R., [Norms as objectives: Revisiting compliance management in multi-agent systems.](/files/papers/2013/51.pdf){:target="_blank"}, In Coordination, organizations, institutions, and norms in agent systems VIII: Lecture notes in artificial intelligence (Vol. 7756). (pp. 105-122). Berlin, Germany: Springer. 2013.	
 
->[50]\. Savarimuthu, B. T. R., Padget, J., & Purvis, M. A., [Social norm recommendation for virtual agent societies.](/files/papers/2011/50.pdf), In International Conference on Principles and Practice of Multi-Agent Systems (pp. 308-323). Springer, Berlin, Heidelberg, 2013.
+>[50]\. Savarimuthu, B. T. R., Padget, J., & Purvis, M. A., [Social norm recommendation for virtual agent societies.](/files/papers/2013/50.pdf){:target="_blank"}, In International Conference on Principles and Practice of Multi-Agent Systems (pp. 308-323). Springer, Berlin, Heidelberg, 2013.
 
->[49]\.Singh, M.P., Arrott, M., Balke, B., Chopra, A.K., Christiaanse, R., Cranefield, S., Dignum, F., Eynard, D.,  Farcas, E., Fornara, N., Gandon, F., Governatori, G., Dam, H.K., Hulstijn, J., Krüger, I., Lam, H., Meisinger, M., Noriega, P., Savarimuthu, B.T.R., Tadanki, K., Verhagen, H., & Villata, S., [The Uses of Norms.](https://drops.dagstuhl.de/opus/volltexte/2013/4004/pdf/p191-ch07-singh-use-of-norms.pdf), In Normative Multi-Agent Systems, 191-229, 2013.
+>[49]\.Singh, M.P., Arrott, M., Balke, B., Chopra, A.K., Christiaanse, R., Cranefield, S., Dignum, F., Eynard, D.,  Farcas, E., Fornara, N., Gandon, F., Governatori, G., Dam, H.K., Hulstijn, J., Krüger, I., Lam, H., Meisinger, M., Noriega, P., Savarimuthu, B.T.R., Tadanki, K., Verhagen, H., & Villata, S., [The Uses of Norms.](https://drops.dagstuhl.de/opus/volltexte/2013/4004/pdf/p191-ch07-singh-use-of-norms.pdf){:target="_blank"}, In Normative Multi-Agent Systems, 191-229, 2013.
 
->[48]\.Balke, T., Cranefield, S., di Tosto, G., Mahmoud, S., Paolucci, M., Savarimuthu, B.T.R. & Verhagen, H., [Simulation and NorMAS.](https://drops.dagstuhl.de/opus/volltexte/2013/4003/pdf/p171-ch06-balke-simulation.pdf), In Normative Multi-Agent Systems, 171-189, 2013.
+>[48]\.Balke, T., Cranefield, S., di Tosto, G., Mahmoud, S., Paolucci, M., Savarimuthu, B.T.R. & Verhagen, H., [Simulation and NorMAS.](https://drops.dagstuhl.de/opus/volltexte/2013/4003/pdf/p171-ch06-balke-simulation.pdf){:target="_blank"}, In Normative Multi-Agent Systems, 171-189, 2013.
 
->[47]\.Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip](/files/papers/2011/47.pdf). Minds and Machines 23(4): 419-441, 2013.
+>[47]\.Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip](/files/papers/2013/47.pdf){:target="_blank"}. Minds and Machines 23(4): 419-441, 2013.
+
+
 
 2012
 --
->[46]\. Savarimuthu, B.T.R., Lê, L.  & Ghose, A., [From Green Norms to Policies - Combining Bottom-Up and Top-Down Approaches](/files/papers/2011/46.pdf) In Proc. Principles and Practices in Multi-Agent Systems (PRIMA 2012), pp. 168-183, Kuching, Malaysia, August 2012. 	
+>[46]\. Savarimuthu, B.T.R., Lê, L.  & Ghose, A., [From Green Norms to Policies - Combining Bottom-Up and Top-Down Approaches.](/files/papers/2012/46.pdf){:target="_blank"} In Proc. Principles and Practices in Multi-Agent Systems (PRIMA 2012), pp. 168-183, Kuching, Malaysia, August 2012. 	
 
 >[45]\. Lopez, B., Ghose, A., Savarimuthu, B. T. R., Nowostawski, M., Winikoff, M., & Cranefield, S., [Energy-aware optimisation of business processes.](https://ourarchive.otago.ac.nz/bitstream/handle/10523/2666/dp2012-01.pdf?sequence=1&isAllowed=y){:target="_blank"}, 2012
 
