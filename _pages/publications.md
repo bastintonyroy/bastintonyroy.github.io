@@ -14,18 +14,35 @@ author_profile: true
 2014
 --
 
+>[64]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Improving energy outcomes in dynamically formed micro-grid coalitions.](/files/papers/2014/64.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems X (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 251-267). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
 
+>[63]\. Frantz, C., Purvis, M., Savarimuthu, B. T. R., & Nowostawski, M., [Modelling the impact of role specialisation on cooperative behaviour in historic trader scenarios.](/files/papers/2014/63.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 53-71). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
 
+>[63]\. Keertipati, S., Savarimuthu, B. T. R., Purvis, M., & Purvis, M. (2014). [Multi-level analysis of peace and conflict data in GDELT.](/files/papers/2014/63.pdf), In A. Rahman, J. Deng & J. Li (Eds.), Proceedings of the 2nd Workshop on Machine Learning for Sensory Data Analysis (MLSDA), (pp. 33-40). New York: ACM. doi: 10.1145/2689746.2689750. 
 
-Testing still!
+>[62]\. Keertipati, S., Savarimuthu, B. T. R., & Purvis, M. A., [Towards convention propagation in multi-layer social networks.](/files/papers/2014/62.pdf), In H. K. Dam, J. Pitt, Y. Xu, G. Governatori & T. Ito (Eds.), Principles and practice of multi-agent systems (PRIMA): Lecture notes in artificial intelligence (Vol. 8861), pp. 57-64. Cham, Switzerland: Springer. doi: 10.1007/978-3-319-13191-7, 2014.
+
+>[61]\. Frantz, C. K., Purvis, M. K., Savarimuthu, B. T. R., & Nowostawski, M., [Modelling dynamic normative understanding in agent societies.](/files/papers/2014/61.pdf), In H. K. Dam, J. Pitt, Y. Xu, G. Governatori & T. Ito (Eds.), Principles and practice of multi-agent systems (PRIMA): Lecture notes in artificial intelligence (Vol. 8861), pp. 294-310. Cham, Switzerland: Springer. doi: 10.1007/978-3-319-13191-7_24, 2014.
+
+>[60]\. Frantz, C., Purvis, M. K., Nowostawski, M., & Savarimuthu, B. T. R., [Analysing the dynamics of norm evolution using interval type-2 fuzzy sets.](/files/papers/2014/60.pdf) Proceedings of the IEEE/WIC/ACM International Joint Conferences on Web Intelligence (WI) and Intelligent Agent Technologies (IAT)., pp. 230-237. IEEE. doi: 10.1109/WI-IAT.2014.172.	
+
+>[59]\. Frantz, C., Purvis, M. K., Nowostawski, M., & Savarimuthu, B. T. R., [Analysing the apprenticeship system in the Maghribi Traders Coalition.](/files/papers/2014/59.pdf). In F. Grimaldo & E. Norling (Eds.), Multi-agent-based simulation XV (MABS): Lecture notes in artificial intelligence (Vol. 9002). (pp. 180-196). Heidelberg, Germany: Springer. doi: 10.1007/978-3-319-14627-0_13, 2014.
+
+>[58]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R. (2014). [An intelligent learning mechanism for trading strategies for local energy distribution.](/files/papers/2014/58.pdf) In S. Ceppi, E. David, V. Podobnik, V. Robu, O. Shehory, S. Stein & I. A. Vetsikas (Eds.), Agent-mediated electronic commerce: Designing trading strategies and mechanisms for electronic markets (LNBIP 187). (pp. 159-170). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-13218-1_12, 2014.	
+
+>[57]\. Farhangian, M., Purvis, M. K., Purvis, M., & Savarimuthu, B. T. R. (2014). [Modelling the effects of personality and temperament in small teams.](/files/papers/2014/57.pdf) In T. Balke, F. Dignum, M. Birna van Riemsdijk, & A. K. Chopra (Eds.), Coordination, organizations, institutions, and norms in agent systems IX (COIN): Lecture notes in artificial intelligence (Vol. 8386). (pp. 25-41). Heidelberg, Germany: Springer. doi: 10.1007/978-3-319-07314-9_2, 2014.	
+
+>[56]\. Towards energy-aware optimisation of business processes. In M. Helfert, K.-H. Krempels, & B. Donnellan (Eds.), [Proceedings of the 3rd International Conference on Smart Grids and Green IT Systems (Smartgreens)](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=6216&context=eispapers), (pp. 68-75). SciTePress, 2014.
+
+>[55]\. Arulanandam, R., Savarimuthu, B.T.R and Purvis, M.A., [Extracting Crime Information from Online Newspaper Articles.](/files/papers/2014/55.pdf){:target="_blank"},  Proc. of the Second Australasian Web Conference (AWC 2014), January 2014, Auckland, New Zealand. Conferences in Research and Practice in Information Technology, Vol.155, pp. 31-38, 2014.
 
 2013
 --
->[51]\. 14.	Andrighetto, G., Cranefield, S., Conte, R., Purvis, M.K., Purvis, M.A., Savarimuthu, B.T.R. & Villatoro, D., [(Social) Norms and Agent-Based Simulation.](/files/papers/2013/54.pdf){:target="_blank"}, Agreement Technologies, pp. 181-189. Springer Netherlands, 2013. 
+>[54]\. Andrighetto, G., Cranefield, S., Conte, R., Purvis, M.K., Purvis, M.A., Savarimuthu, B.T.R. & Villatoro, D., [(Social) Norms and Agent-Based Simulation.](/files/papers/2013/54.pdf){:target="_blank"}, Agreement Technologies, pp. 181-189. Springer Netherlands, 2013. 
 
->[51]\. Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip.](/files/papers/2013/53.pdf){:target="_blank"}, Minds and Machines 23(4): 419-441, 2013.
+>[53]\. Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Gossip-Based Self-Organising Agent Societies and the Impact of False Gossip.](/files/papers/2013/53.pdf){:target="_blank"}, Minds and Machines 23(4): 419-441, 2013.
 
->[51]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying prohibition norms in agent societies](/files/papers/2013/52.pdf){:target="_blank"}, Artificial Intelligence and Law, Issue 21, Volume 1, pp. 1-46, 2013.	
+>[52]\. Savarimuthu, B.T.R., Cranefield, S., Purvis, M.A. and Purvis, M.K., [Identifying prohibition norms in agent societies](/files/papers/2013/52.pdf){:target="_blank"}, Artificial Intelligence and Law, Issue 21, Volume 1, pp. 1-46, 2013.	
 
 >[51]\. Ghose, A., & Savarimuthu, B.T.R., [Norms as objectives: Revisiting compliance management in multi-agent systems.](/files/papers/2013/51.pdf){:target="_blank"}, In Coordination, organizations, institutions, and norms in agent systems VIII: Lecture notes in artificial intelligence (Vol. 7756). (pp. 105-122). Berlin, Germany: Springer. 2013.	
 
