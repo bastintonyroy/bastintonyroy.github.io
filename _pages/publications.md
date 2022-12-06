@@ -14,9 +14,9 @@ author_profile: true
 2014
 --
 
->[64]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Improving energy outcomes in dynamically formed micro-grid coalitions.](/files/papers/2014/64.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems X (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 251-267). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
+>[65]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [Improving energy outcomes in dynamically formed micro-grid coalitions.](/files/papers/2014/65.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems X (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 251-267). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
 
->[63]\. Frantz, C., Purvis, M., Savarimuthu, B. T. R., & Nowostawski, M., [Modelling the impact of role specialisation on cooperative behaviour in historic trader scenarios.](/files/papers/2014/63.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 53-71). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
+>[64]\. Frantz, C., Purvis, M., Savarimuthu, B. T. R., & Nowostawski, M., [Modelling the impact of role specialisation on cooperative behaviour in historic trader scenarios.](/files/papers/2014/64.pdf), In A. Ghose, N. Oren, P. Telang, & J. Thangarajah (Eds.), Coordination, organizations, institutions and norms in agent systems (COIN): Lecture notes in artificial intelligence (Vol. 9372). (pp. 53-71). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25420-3_16, 2014.
 
 >[63]\. Keertipati, S., Savarimuthu, B. T. R., Purvis, M., & Purvis, M. (2014). [Multi-level analysis of peace and conflict data in GDELT.](/files/papers/2014/63.pdf), In A. Rahman, J. Deng & J. Li (Eds.), Proceedings of the 2nd Workshop on Machine Learning for Sensory Data Analysis (MLSDA), (pp. 33-40). New York: ACM. doi: 10.1145/2689746.2689750. 
 
@@ -32,7 +32,7 @@ author_profile: true
 
 >[57]\. Farhangian, M., Purvis, M. K., Purvis, M., & Savarimuthu, B. T. R. (2014). [Modelling the effects of personality and temperament in small teams.](/files/papers/2014/57.pdf) In T. Balke, F. Dignum, M. Birna van Riemsdijk, & A. K. Chopra (Eds.), Coordination, organizations, institutions, and norms in agent systems IX (COIN): Lecture notes in artificial intelligence (Vol. 8386). (pp. 25-41). Heidelberg, Germany: Springer. doi: 10.1007/978-3-319-07314-9_2, 2014.	
 
->[56]\. Towards energy-aware optimisation of business processes. In M. Helfert, K.-H. Krempels, & B. Donnellan (Eds.), [Proceedings of the 3rd International Conference on Smart Grids and Green IT Systems (Smartgreens)](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=6216&context=eispapers), (pp. 68-75). SciTePress, 2014.
+>[56]\. Lopez, B., Ghose, A., Savarimuthu, B. T. R., Nowostawski, M., Winikoff, M., & Cranefield, S., Towards energy-aware optimisation of business processes. In M. Helfert, K.-H. Krempels, & B. Donnellan (Eds.), [Proceedings of the 3rd International Conference on Smart Grids and Green IT Systems (Smartgreens)](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=6216&context=eispapers), (pp. 68-75). SciTePress, 2014.
 
 >[55]\. Arulanandam, R., Savarimuthu, B.T.R and Purvis, M.A., [Extracting Crime Information from Online Newspaper Articles.](/files/papers/2014/55.pdf){:target="_blank"},  Proc. of the Second Australasian Web Conference (AWC 2014), January 2014, Auckland, New Zealand. Conferences in Research and Practice in Information Technology, Vol.155, pp. 31-38, 2014.
 
