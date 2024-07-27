@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I have taught the following papers at Otago
+I have taught the following papers at Otago.
 
 100-level
 --
