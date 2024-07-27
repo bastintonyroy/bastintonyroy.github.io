@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Tony Savarimuthu"
   avatar           : "profile_picture.jpg"
-  bio              : "Professor, School of Computing, University of Otago, Dunedin, New Zealand"
-  location         : 
-  employer         :
+  bio              : "Professor, School of Computing, University of Otago"
+  location         : "Dunedin, New Zealand"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=0__bwK0AAAAJ&hl=en"
   email            : "tony.savarimuthu@otago.ac.nz"
   researchgate     : "https://www.researchgate.net/profile/Bastin-Tony-Roy-Savarimuthu"
-  uri              :
+  uri              : "https://www.otago.ac.nz/school-of-computing/our-people/tony-savarimuthu"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/bastin-tony-roy-savarimuthu-5b86b0/"
   orcid            : "https://orcid.org/0000-0003-3213-6319"
   pinterest        :
   soundcloud       :
