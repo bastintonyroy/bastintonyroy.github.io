@@ -7,7 +7,7 @@ author_profile: true
 List of PhD, Masters and other post-graduate research students I have supervised/co-supervised.
 
 ## PhD students
-1.  Yaseen Hezam (in-progress, co-supervised with Dr. Hoa Dam)
+1.  Yaseen Hezam (in-progress, co-supervised with Dr. Hoa Luong)
 2.	Amritha Menon Anavankot (in progress, co-supervisor, primary is Prof. Stephen Cranefield)
 1.	Jithin Cheriyan (completed in 2022, primary supervisor, co-supervisor was Prof. Stephen Cranefield)
 3.	Saurabh Malgaonkar (completed in 2022, co-supervisor, primary supervisor was Assoc. Prof. Sherlock Licorish)
