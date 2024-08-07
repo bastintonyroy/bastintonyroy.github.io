@@ -12,6 +12,30 @@ author_profile: true
 | [2007](#2007)| [2006](#2006)| [2005](#2005)| [2004](#2004)|  [2001](#2001)|
 
 
+2016
+--
+>[87]\. Alwash, M., Savarimuthu, B. T. R., & Parackal, M. (2016). [Identifying and classifying value propositions in brand tweets: A study of top 10 coffee brands.](/files/papers/2015/87.pdf){:target="_blank"} Proceedings of the Pacific Asia Conference on Information Systems (PACIS). 168. Retrieved from http://aisel.aisnet.org/pacis2016/168
+
+>[86]\. Frantz, C. K., Savarimuthu, B. T. R., Purvis, M. K., & Nowostawski, M. (2016). [Generalising social structure using interval type-2 fuzzy sets.](/files/papers/2016/86.pdf){:target="_blank"} In M. Baldoni, A. K. Chopra, T. C. Son, K. Hirayama & P. Torroni (Eds.), Principles and practice of multi-agent systems: Lecture notes in artificial intelligence (Vol. 9862). (pp. 344-354). Springer. doi: 10.1007/978-3-319-44832-9_22
+
+>[85]\. Cranefield, S., Meneguzzi, F., Oren, N., & Savarimuthu, B. T. R. (2016). [A Bayesian approach to norm identification.](/files/papers/2016/85.pdf){:target="_blank"} In G. A. Kaminka, M. Fox, P. Bouquet, E. Hüllermeier, F. Dignum & F. van Harmelen (Eds.), Frontiers in Artificial Intelligence and Applications (Vol. 285): 22nd European Conference on Artificial Intelligence (ECAI). (pp. 622-629). Amsterdam, The Netherlands: IOS Press. doi: 10.3233/978-1-61499-672-9-622
+
+>[84]\. Patel, P., Licorish, S., Savarimuthu, B. T. R., & MacDonell, S. (2016). [Studying expectation violations in socio-technical systems: A case study of the mobile app community.](/files/papers/2016/84.pdf){:target="_blank"} Proceedings of the 24th European Conference on Information Systems (ECIS). 14. Retrieved from http://aisel.aisnet.org/ecis2016_rp/14
+
+>[83]\. Savarimuthu, T., Dam, H. K., Licorish, S. A., Keertipati, S., Avery, D., & Ghose, A. K. (2016). [Process compliance in open source software development: A study of Python Enhancement Proposals (PEPS).](/files/papers/2016/83.pdf){:target="_blank"} Proceedings of the 24th European Conference on Information Systems (ECIS). 48. Retrieved from http://aisel.aisnet.org/ecis2016_rp/48
+
+>[82]\. Keller, T., & Savarimuthu, B. T. R. (2016). [A social norms based approach for enhancing decision support in business process execution.](/files/papers/2016/82.pdf){:target="_blank"} In A. Bossard (Ed.), Proceedings of the 31st International Conference on Computers and Their Applications (CATA). (pp. 137-144). International Society for Computers and Their Applications.
+
+>[81]\. Keertipati, S., Licorish, S., & Savarimuthu, B. T. R. (2016). [Exploring decision-making processes in Python.](/files/papers/2016/81.pdf){:target="_blank"} Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE). 43. New York: ACM. doi: 10.1145/2915970.2915993
+
+>[80]\. Avery, D., Dam, H. K., Savarimuthu, B. T. R., & Ghose, A. (2016). [Externalization of software behavior by the mining of norms.](/files/papers/2016/80.pdf){:target="_blank"} Proceedings of the 13th International Conference on Mining Software Repositories (MSR). (pp. 223-234). New York: ACM. doi: 10.1145/2901739.2901744
+
+>[79]\. Keertipati, S., Savarimuthu, B. T. R., & Licorish, S. A. (2016). [Approaches for prioritizing feature improvements extracted from app reviews.](/files/papers/2016/79.pdf){:target="_blank"} Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering (EASE). 33. New York: ACM. doi: 10.1145/2915970.2916003
+
+>[78]\. Keller, T., & Savarimuthu, B. T. R. (2016). [Optimizing decision support in business process management using obligation and prohibition norms.](/files/papers/2016/78.pdf){:target="_blank"} In M. B. Nunes, P. Isaías & P. Powell (Eds.), Proceedings of the 9th International Association for Development of the Information Society (IADIS) International Conference Information Systems. (pp. 63-70). [Full Paper]
+
+>[77]\. Lee, C. W., Licorish, S. A., Savarimuthu, B. T. R., & MacDonell, S. G. (2016). [Augmenting text mining approaches with social network analysis to understand the complex relationships among users’ requests: A case study of the android operating system.](/files/papers/2016/77.pdf){:target="_blank"} In T. X. Bui & R. H. Sprague (Eds.), Proceedings of the 49th Hawaii International Conference on System Sciences (HICSS). (pp. 1144-1153). IEEE. doi: 10.1109/HICSS.2016.145
+
 2015
 --
 >[76]\. Cranefield, S., Savarimuthu, T., Meneguzzi, F., & Oren, N. (2015). [A Bayesian approach to norm identification [Extended abstract]](/files/papers/2015/76.pdf){:target="_blank"}. In R. H. Bordini, E. Elkind, G. Weiss & P. Yolum (Eds.), Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems (AAMAS). (pp. 1743-1744). Richland, SC: International Foundation for Autonomous Agents and Multiagent Systems. [Abstract]
