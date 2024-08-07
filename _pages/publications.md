@@ -11,10 +11,112 @@ author_profile: true
 | [2012](#2012)| [2011](#2011)| [2010](#2010)| [2009](#2009)| [2008](#2008) |
 | [2007](#2007)| [2006](#2006)| [2005](#2005)| [2004](#2004)|  [2001](#2001)|
 
+2024
+--
+>[129]\. Anavankot, A. M., Cranefield, S., & Savarimuthu, B. T. R. (2024). NEMAS: Norm entrepreneurship in multi-agent systems. Systems, 12, 187. doi: 10.3390/systems12060187
+
+>[128]\. Savarimuthu, B. T. R., & Corbett, J. (2024). Tackling energy poverty with artificial intelligence: Challenges and opportunities. Proceedings of the Americas Conference on Information Systems (AMCIS). 8, 1718. Retrieved from https://aisel.aisnet.org/amcis2024/sig_green/sig_green/8/
+
+2023
+--
+>[127]\. Savarimuthu, B. T. R., Corbett, J., Yasir, M., & Lakshmi, V. (2023). Improving information systems sustainability by applying machine learning to detect and reduce data waste. Communications of the Association for Information Systems, 53, 189-213. doi: 10.17705/1CAIS.05308
+
+>[126]\. Sharma, P. N., Savarimuthu, B. T. R., & Stanger, N. (2023). How are decisions made in open source software communities? Uncovering rationale from python email repositories. Journal of Software: Evolution & Process, 36, e2526. doi: 10.1002/smr.2526
+
+>[125]\. Freitas dos Santos, T., Cranefield, S., Savarimuthu, B. T. R., Osman, N., & Schorlemmer, M. (2023). Cross-community Adapter Learning (CAL) to understand the evolving meanings of norm violation. In E. Elkind (Ed.), Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI ). (pp. 109-117). International Joint Conferences on Artificial Intelligence. doi: 10.24963/ijcai.2023/13
+
+>[124]\. Anavankot, A., Cranefield, S., & Savarimuthu, B. T. R. (2023). Towards norm entrepreneurship in agent societies. In P. Mathieu, F. Dignum, P. Novais & F. De la Prieta (Eds.), Advances in practical applications of agents, multi-agent systems, and cognitive mimetics, 21st International Conference, PAAMS 2023: Lecture notes in artificial intelligence (Vol. 13955). (pp. 188-199). Cham, Switzerland: Springer Nature. doi: 10.1007/978-3-031-37616-0_16
+
+>[123]\. Savarimuthu, B. T. R., Zareen, Z., Cheriyan, J., Yasir, M., & Galster, M. (2023). Barriers for social inclusion in online software engineering communities: A study of offensive language use in Gitter projects. Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering (EASE). (pp. 217-222). New York, USA: ACM. doi: 10.1145/3593434.3593463
+
+2022
+--
+>[122]\. Ajmeri, N., Martin, A. M., & Savarimuthu, B. T. R. (Eds.). (2022). Coordination, organizations, institutions, norms, and ethics (COINE) for governance of multi-agent systems XV: Revised selected papers: Lecture notes in artificial intelligence (Vol. 13549). Cham, Switzerland: Springer, 241p. doi: 10.1007/978-3-031-20845-4
+
+>[121]\. Sharma, P. N., Savarimuthu, B. T. R., & Stanger, N. (2022). Unearthing open source decision-making processes: A case study of python enhancement proposals. Software: Practice & Experience, 52, 2312-2346. doi: 10.1002/spe.3128
+
+>[120]\. Afshar Sedigh, A. H., Purvis, M., Savarimuthu, T. B. R., Frantz, C. K., & Purvis, M. (2022). A comparative study on apprenticeship systems using agent-based simulation. Journal of Artificial Societies & Social Simulation, 25(1), 1. doi: 10.18564/jasss.4733
+
+>[119]\. Corbett, J., & Savarimuthu, B. T. R. (2022). From tweets to insights: A social media analysis of the emotion discourse of sustainable energy in the United States. Energy Research & Social Science, 89, 102515. doi: 10.1016/j.erss.2022.102515
+
+>[118]\. Malgaonkar, S., Licorish, S. A., & Savarimuthu, B. T. R. (2022). Prioritizing user concerns in app reviews: A study of requests for new features, enhancements and bug fixes. Information & Software Technology, 144, 106798. doi: 10.1016/j.infsof.2021.106798
+
+>[117]\. Malgaonkar, S., Licorish, S. A., & Savarimuthu, B. T. R. (2022). Automatically generating taxonomy for grouping app reviews: A study of three apps. Software Quality Journal, 30, 483-512. doi: 10.1007/s11219-021-09570-1
+
+2021
+--
+>[116]\. Savarimuthu, B. T. R., Licorish, S. A., Devananda, M., Greenheld, G., Dignum, V., & Dignum, F. (2021). Developers' responses to app review feedback: A study of communication norms in app development. In A. Aler Tubella, S. Cranefield, C. Frantz, F. Meneguzzi & W. Vasconcelos (Eds.), Coordination, organizations, institutions, norms, and ethics for governance of multi-agent systems XIII: COIN 2017 & COINE 2020 International Workshops, revised selected papers: Lecture notes in artificial intelligence (Vol. 12298). (pp. 57-75). Cham, Switzerland: Springer Nature. doi: 10.1007/978-3-030-72376-7_4
+
+>[115]\. Cheriyan, J., Savarimuthu, B. T. R., & Cranefield, S. (2021). Norm violation in online communities: A study of Stack Overflow comments. In A. Aler Tubella, S. Cranefield, C. Frantz, F. Meneguzzi & W. Vasconcelos (Eds.), Coordination, organizations, institutions, norms, and ethics for governance of multi-agent systems XIII: COIN 2017 & COINE 2020 International Workshops, revised selected papers: Lecture notes in artificial intelligence (Vol. 12298). (pp. 20-34). Cham, Switzerland: Springer Nature. doi: 10.1007/978-3-030-72376-7_2
+
+>[114]\. Afshar Sedigh, A. H., Purvis, M. K., Savarimuthu, B. T. R., Frantz, C. K., & Purvis, M. A. (2021). Impact of different belief facets on agents' decision: A refined cognitive architecture to model the interaction between organisations' institutional characteristics and agents' behaviour. In A. Aler Tubella, S. Cranefield, C. Frantz, F. Meneguzzi & W. Vasconcelos (Eds.), Coordination, organizations, institutions, norms, and ethics for governance of multi-agent systems XIII: COIN 2017 & COINE 2020 International Workshops, revised selected papers: Lecture notes in artificial intelligence (Vol. 12298). (pp. 133-155). Cham, Switzerland: Springer Nature. doi: 10.1007/978-3-030-72376-7_8
+
+>[113]\. Alwash, M., Savarimuthu, B. T. R., & Parackal, M. (2021). Mining brand value propositions on Twitter: Exploring the link between marketer-generated content and eWOM outcomes. Social Network Analysis & Mining, 11, 83. doi: 10.1007/s13278-021-00790-8
+
+>[112]\. Cranefield, S., & Savarimuthu, B. T. R. (2021). Normative multi-agent systems and human-robot interaction. Proceedings of the Ro-Man Workshop on Robot Behavior Adaptation to Human Social Norms (TSAR). Retrieved from https://tsar2021.ai.vub.ac.be
+
+>[111]\. Sharma, P. N., Savarimuthu, B. T. R., & Stanger, N. (2021). Extracting rationale for Open Source Software Development decisions: A study of Python email archives. Proceedings of the IEE/ACM 43rd International Conference on Software Engineering (ICSE). (pp. 1008-1019). doi: 10.1109/ICSE43902.2021.00095
+
+>[110]\. Cheriyan, J., Savarimuthu, B. T. R., & Cranefield, S. (2021). Towards offensive language detection and reduction in four Software Engineering communities. In R. Chitchyan, J. Li, B. Weber & T. Yue (Eds.), Proceedings of the Evaluation and Assessment in Software Engineering (EASE) Conference. (pp. 254-259). New York, NY: ACM. doi: 10.1145/3463274.3463805
+
+>[109]\. Sharma, P. N., Savarimuthu, B. T. R., & Stanger, N. (2021). Influence of roles in decision-making during OSS development: A study of Python. In R. Chitchyan, J. Li, B. Weber & T. Yue (Eds.), Proceedings of the Evaluation and Assessment in Software Engineering (EASE) Conference. (pp. 50-59). New York, NY: ACM. doi: 10.1145/3463274.3463326
+
+
+2020
+--
+>[108]\. Meldrum, S., Licorish, S. A., Owen, C. A., & Savarimuthu, B. T. R. (2020). Understanding stack overflow code quality: A recommendation of caution. Science of Computer Programming, 199, 102516. doi: 10.1016/j.scico.2020.102516
+
+>[107]\. Malgaonkar, S., Licorish, S. A., & Savarimuthu, B. T. R. (2020). Understanding requirements prioritisation: Literature survey and critical evaluation. IET Software, 14(6), 607-622. doi: 10.1049/iet-sen.2019.0215
+
+>[106]\. Savarimuthu, B. T. R., Corbett, J., Yasir, M., & Lakshmi, V. (2020). Using machine learning to improve the sustainability of the online review market. Proceedings of the International Conference on Information Systems (ICIS): Making Digital Inclusive: Blending the Local and the Global. 167844. [Full Paper]
+
+>[105]\. Malgaonkar, S., Licorish, S. A., & Savarimuthu, B. T. R. (2020). Towards automated taxonomy generation for grouping app reviews: A preliminary empirical study. Proceedings of the International Conference on the Quality of Information and Communications Technology (QUATIC). (pp. 120-134). Cham, Switzerland: Springer. doi: 10.1007/978-3-030-58793-2_10
+
+>[104]\. Sharma, P., Savarimuthu, B. T. R., & Stanger, N. (2020). Mining decision-making processes in open source software development: A study of Python Enhancement Proposals (PEPs) using email repositories. Proceedings of the Evaluation and Assessment in Software Engineering (EASE). (pp. 200-209). ACM. doi: 10.1145/3383219.3383240
+
+>[103]\. Corbett, J., Savarimuthu, B. T. R., & Lakshmi, V. (2020). Separating treasure from trash: Quantifying data waste in app reviews. Proceedings of the Americas' Conference on Information Systems (AMCIS). Retrieved from https://aisel.aisnet.org/amcis2020/sig_green/sig_green/4
+
+
+2019
+--
+>[102]\. Afshar Sedigh, A. H., Frantz, C. K., Savarimuthu, B. T. R., Purvis, M. K., & Purvis, M. A. (2019). A comparison of two historical trader societies: An agent-based simulation study of English East India Company and New-Julfa. In P. Davidsson & H. Verhagen (Eds.), Multi-agent-based simulation XIX: 19th International Workshop MABS 2018, revised selected papers: Lecture notes in artificial intelligence (Vol. 11463). (pp. 17-31). Cham, Switzerland: Springer. doi: 10.1007/978-3-030-22270-3_2
+
+>[101]\. Alwash, M., Savarimuthu, B. T. R., & Parackal, M. (2019). Shallow vs. deep customer engagement: A study of brand value propositions in Twitter. Proceedings of the 27th European Conference on Information Systems (ECIS). (pp. 1-12). Retrieved from https://aisel.aisnet.org/ecis2019_rp/96
+
+2018
+--
+>[100]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, T. B. R. (2018). Complementary-based coalition formation for energy microgrids. Computational Intelligence. doi: 10.1111/coin.12171
+
+>[99]\. Yasir, M., Michael, K., Savarimuthu, B. T. R., & Licorish, S. A. (2018). Formal in the informal: A multi-level analysis of core python developers' tweets. Proceedings of the 25th Australasian Software Engineering Conference (ASWEC). (pp. 151-160). IEEE. doi: 10.1109/ASWEC.2018.00028
+
+>[98]\. Lotter, A., Licorish, S. A., Savarimuthu, B. T. R., & Meldrum, S. (2018). Code reuse in stack overflow and popular open source Java projects. Proceedings of the 25th Australasian Software Engineering Conference (ASWEC). (pp. 141-150). IEEE. doi: 10.1109/ASWEC.2018.00027
+
+>[97]\. Greenheld, G., Savarimuthu, B. T. R., & Licorish, S. A. (2018). Automating developers' responses to app reviews. Proceedings of the 25th Australasian Software Engineering Conference (ASWEC). (pp. 66-70). IEEE. doi: 10.1109/ASWEC.2018.00017
+
+>[96]\. Corbett, J., Savarimuthu, T., & Mohanna, M. (2018). Are electricity prosumers more engaged? An analysis of brand-follower engagement on twitter. Proceedings of the 24th Americas Conference on Information Systems (AMCIS): Digital Disruption. 139332. AIS. 
+
+2017
+--
+
+>[95]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R. (2017). Agent-based modelling of coalition formation in energy micro-grids. International Journal of Agent-Oriented Software Engineering, 5(4), 399-432. doi: 10.1504/IJAOSE.2017.087639
+
+>[94]\. Meldrum, S., Savarimuthu, B. T. R., Licorish, S., Tahir, A., Bosu, M., & Jayakaran, P. (2017). Is knee pain information on YouTube videos perceived to be helpful? An analysis of user comments and implications for dissemination on social media. Digital Health, 3. doi: 10.1177/2055207617698908
+
+>[93]\. Keller, T., & Savarimuthu, B. T. R. (2017). Facilitating enhanced decision support using a social norms approach. Journal of Electronic Commerce in Organisations, 15(2), 1. doi: 10.4018/JECO.2017040101
+
+>[92]\. Sharma, P. N., Savarimuthu, B. T. R., & Stanger, N. (2017). Boundary spanners in open source software development: A study of Python email archives. Proceedings of the 24th Asia-Pacific Software Engineering Conference (APSEC). (pp. 308-317). IEEE. doi: 10.1109/APSEC.2017.37
+
+>[91]\. Meldrum, S., Licorish, S. A., & Savarimuthu, B. T. R. (2017). Crowdsourced knowledge on stack overflow: A systematic mapping study. Proceedings of the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE). (pp. 180-185). New York, NY: ACM. doi: 10.1145/3084226.3084267
+
+>[90]\. Sharma, P., Savarimuthu, B. T. R., Stanger, N., Licorish, S. A., & Rainer, A. (2017). Investigating developers' email discussions during decision-making in Python language evolution. Proceedings of the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE). (pp. 286-291). New York, NY: ACM. doi: 10.1145/3084226.3084271
+
+>[89]\. Licorish, S. A., Savarimuthu, B. T. R., & Keertipati, S. (2017). Attributes that predict which features to fix: Lessons for App Store mining. Proceedings of the 21st International Conference on Evaluation and Assessment in Software Engineering (EASE). (pp. 108-117). New York, NY: ACM. doi: 10.1145/3084226.3084246
+
+>[88]\. Su'a, T., Licorish, S. A., Savarimuthu, B. T. R., & Langlotz, T. (2017). QuickReview: A novel data-driven mobile user interface for reporting problematic app features. Proceedings of the 22nd International Conference on Intelligent User Interfaces (IUI). (pp. 517-522). New York, NY: ACM. doi: 10.1145/3025171.3025178
 
 2016
 --
->[87]\. Alwash, M., Savarimuthu, B. T. R., & Parackal, M. (2016). [Identifying and classifying value propositions in brand tweets: A study of top 10 coffee brands.](/files/papers/2015/87.pdf){:target="_blank"} Proceedings of the Pacific Asia Conference on Information Systems (PACIS). 168. Retrieved from http://aisel.aisnet.org/pacis2016/168
+>[87]\. Alwash, M., Savarimuthu, B. T. R., & Parackal, M. (2016). [Identifying and classifying value propositions in brand tweets: A study of top 10 coffee brands.](/files/papers/2016/87.pdf){:target="_blank"} Proceedings of the Pacific Asia Conference on Information Systems (PACIS). 168. Retrieved from http://aisel.aisnet.org/pacis2016/168
 
 >[86]\. Frantz, C. K., Savarimuthu, B. T. R., Purvis, M. K., & Nowostawski, M. (2016). [Generalising social structure using interval type-2 fuzzy sets.](/files/papers/2016/86.pdf){:target="_blank"} In M. Baldoni, A. K. Chopra, T. C. Son, K. Hirayama & P. Torroni (Eds.), Principles and practice of multi-agent systems: Lecture notes in artificial intelligence (Vol. 9862). (pp. 344-354). Springer. doi: 10.1007/978-3-319-44832-9_22
 
