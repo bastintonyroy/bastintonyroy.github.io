@@ -14,6 +14,27 @@ author_profile: true
 
 2015
 --
+>[76]\. Cranefield, S., Savarimuthu, T., Meneguzzi, F., & Oren, N. (2015). [A Bayesian approach to norm identification [Extended abstract]](/files/papers/2015/76.pdf){:target="_blank"}. In R. H. Bordini, E. Elkind, G. Weiss & P. Yolum (Eds.), Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems (AAMAS). (pp. 1743-1744). Richland, SC: International Foundation for Autonomous Agents and Multiagent Systems. [Abstract]
+
+>[75]\. Yasir, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R. (2015). [Dynamic coalition formation in energy micro-grids.](/files/papers/2015/75.pdf){:target="_blank"} In Q. Chen, P. Torroni, S. Villata, J. Hsu & A. Omicini (Eds.), PRIMA 2015: Principles and practice of multi-agent systems: Lecture notes in artificial intelligence (Vol. 9387). (pp. 152-168). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25524-8_10
+
+>[74]\. Farhangian, M., Purvis, M. K., Purvis, M., & Savarimuthu, B. T. R. (2015). [Modeling the effects of personality on team formation in self-assembly teams.](/files/papers/2015/74.pdf){:target="_blank"} In Q. Chen, P. Torroni, S. Villata, J. Hsu & A. Omicini (Eds.), PRIMA 2015: Principles and practice of multi-agent systems: Lecture notes in artificial intelligence (Vol. 9387). (pp. 538-546). Cham, Switzerland: Springer. doi: 10.1007/978-3-319-25524-8_36
+
+>[73]\. Licorish, S. A., Lee, C. W., Savarimuthu, B. T. R., Patel, P., & MacDonell, S. G. (2015). [They’ll know it when they see it: Analyzing post-release feedback from the android community.](/files/papers/2015/73.pdf){:target="_blank"} Proceedings of the 21st Americas Conference on Information Systems (AMCIS). Retrieved from http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1407&context=amcis2015
+
+>[72]\. Dam, H. K., Savarimuthu, B. T. R., Avery, D., & Ghose, A. (2015). [Mining software repositories for social norms.](/files/papers/2015/72.pdf){:target="_blank"} Proceedings of the 37th International Conference on Software Engineering (ICSE) (Vol. 2). (pp. 627-630). IEEE. doi: 10.1109/ICSE.2015.209
+
+>[71]\. Keller, T., & Savarimuthu, B. T. R. (2015). [The Folly Guard: A personal and social communication protection system.](/files/papers/2015/71.pdf){:target="_blank"} In P. Kommers & P. Isaias (Eds.), Proceedings of the 13th e-Society International Conference. (pp. 233-238). IADIS Press. [Full Paper]
+
+>[70]\. Yasir, M., Purvis, M. K., Purvis, M., & Savarimuthu, B. T. R. (2015). [Agent-based community coordination of local energy distribution.](/files/papers/2015/70.pdf){:target="_blank"} AI & Society, 30(3), 379-391. [DOI](doi: 10.1007/s00146-013-0528-1)
+
+>[69]\. Savarimuthu, S., Purvis, M., Purvis, M., & Savarimuthu, B. T. R. (2015). [An agent-based simulation for restricting exploitation in electronic societies through social mechanisms.](/files/papers/2015/69.pdf){:target="_blank"} AI & Society, 30(3), 345-358. [DOI](doi: 10.1007/s00146-013-0529-0)
+
+>[68]\. Frantz, C. K., Purvis, M. K., Savarimuthu, B. T. R., & Nowostawski, M. (2015). [Modelling dynamic normative understanding in agent societies.](/files/papers/2015/68.pdf){:target="_blank"} Scalable Computing, 16(4), 355-378. doi: 10.12694/scpe.v16i4.1128
+
+>[67]\. Farhangian, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R. (2015). [Agent-based modeling of resource allocation in software projects based on personality and skill.](/files/papers/2015/67.pdf){:target="_blank"} In F. Koch, C. Guttmann & D. Busquets (Eds.), Advances in social computing and multiagent systems: Communications in computer and information science (Vol. 541). (pp. 130-146). Cham, The Netherlands: Springer. doi: 10.1007/978-3-319-24804-2_9
+
+>[66]\. Farhangian, M., Purvis, M., Purvis, M., & Savarimuthu, B. T. R., [The effects of temperament and team formation mechanism on collaborative learning of knowledge and skill in short-term projects.](/files/papers/2015/66.pdf){:target="_blank"}, In F. Koch, C. Guttmann & D. Busquets (Eds.), Advances in social computing and multiagent systems: Communications in computer and information science (Vol. 541). (pp. 48-65). Cham, The Netherlands: Springer. doi: 10.1007/978-3-319-24804-2_4
 
 2014
 --
