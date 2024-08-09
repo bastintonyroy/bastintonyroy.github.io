@@ -7,7 +7,7 @@ author_profile: true
 Tony conducts research in multi-agent systems (a branch of artificial intelligence). software engineering and Information Systems.
 
 **Multi-agent systems** - In multi-agent systems, he is passionate about creating ‘socially aware’ software (e.g., those used in robots), that can learn human concepts such as social norms, trust and reputation, and apply them when interacting with other humans or artificial agents. Such futuristic software can enable collaboration and cooperation between interacting entities. 
-* Social norms for artificial agents ([1]((/files/papers/2016/79.pdf){:target="_blank"}), [2]((http://jasss.soc.surrey.ac.uk/13/4/3.html){:target="_blank"}) and [3]((/files/papers/2011/44.pdf){:target="_blank"}))
+* Social norms for artificial agents ([1](/files/papers/2016/79.pdf){:target="_blank"}), [2](http://jasss.soc.surrey.ac.uk/13/4/3.html){:target="_blank"}) and [3]((/files/papers/2011/44.pdf){:target="_blank"}))
 * Gossip-based mechanism for artificial agents ([1]((/files/papers/2013/47.pdf){:target="_blank"}))
 
 **Software Engineering** - In software engineering, he studies the socialness of the software development process. His research has focused on analysing social networks of developers to understand behavioural patterns, unearthing decision-making processes from large software repositories, and extracting insights from app review data. 
