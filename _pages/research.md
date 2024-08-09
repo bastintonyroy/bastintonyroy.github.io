@@ -7,22 +7,16 @@ author_profile: true
 Tony conducts research in multi-agent systems (a branch of artificial intelligence). software engineering and Information Systems.
 
 **Multi-agent systems** - In multi-agent systems, he is passionate about creating ‘socially aware’ software (e.g., those used in robots), that can learn human concepts such as social norms, trust and reputation, and apply them when interacting with other humans or artificial agents. Such futuristic software can enable collaboration and cooperation between interacting entities. 
-
-Key papers:
-* Social norms for artificial agents ([1](), [2]() and [3]())
-* Gossip-based mechanism for artificial agents ([1]())
+* Social norms for artificial agents ([1]((/files/papers/2016/79.pdf){:target="_blank"}), [2]((http://jasss.soc.surrey.ac.uk/13/4/3.html){:target="_blank"}) and [3]((/files/papers/2011/44.pdf){:target="_blank"}))
+* Gossip-based mechanism for artificial agents ([1]((/files/papers/2013/47.pdf){:target="_blank"}))
 
 **Software Engineering** - In software engineering, he studies the socialness of the software development process. His research has focused on analysing social networks of developers to understand behavioural patterns, unearthing decision-making processes from large software repositories, and extracting insights from app review data. 
-
-Key papers:
 * Social networks of developers/decision-makers ([1]() and [2]())
 * Unearthing decision-making processes ([1]() and [2]())
 * Mining insights from app review data ([1]() and [2]())
 * Extracting personality types from social media data ([1]())
 
 **Information Systems** - In the information systems domain he has led projects on the use of Artificial Intelligence (AI) for social good such as crime mapping based on newspaper data, offensive language detection and reduction in online communities, preventing the generation of useless data, and tackling energy poverty. 
-
-Key papers:
 * Crime mining from newspaper data
 * Offensive langguage detection and reduction in online communities
 * Reducing useless data generation on the internet
