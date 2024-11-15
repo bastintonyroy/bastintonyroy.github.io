@@ -14,8 +14,6 @@ I have taught in many of the areas of my research interests. More recently, I ha
 
 I am the current director of the [Software Engineering](https://www.otago.ac.nz/courses/subjects/seng.html){:target="_blank"} programme at Otago. I am also the director of [Business Analytics](https://www.otago.ac.nz/courses/subjects/buan){:target="_blank"} minor offered at the Otago Business School. I am a lead course advisors at the School of Computing.
 
-[![Watch my inaugural professorial lecture video](files/IPL_Savarimuthu.jpg)](https://www.youtube.com/watch?v=rXTiVZf50Ks)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rXTiVZf50Ks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!--
