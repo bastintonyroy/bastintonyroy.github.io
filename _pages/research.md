@@ -4,23 +4,23 @@ title: "Research"
 excerpt: "Research"
 author_profile: true
 ---
-Tony conducts research in multi-agent systems (a branch of artificial intelligence). software engineering and Information Systems.
+Tony conducts research in multi-agent systems (a branch of artificial intelligence), software engineering and Information Systems (broadly on AI for social goods).
 
 **Multi-agent systems** - In multi-agent systems, he is passionate about creating ‘socially aware’ software (e.g., those used in robots), that can learn human concepts such as social norms, trust and reputation, and apply them when interacting with other humans or artificial agents. Such futuristic software can enable collaboration and cooperation between interacting entities. 
-* Social norms for artificial agents ([1](/files/papers/2016/79.pdf){:target="_blank"}), [2](http://jasss.soc.surrey.ac.uk/13/4/3.html){:target="_blank"} and [3](/files/papers/2011/44.pdf){:target="_blank"}
+* Social norms for artificial agents ([1](https://arxiv.org/pdf/2403.16524){:target="_blank"}, [2](/files/papers/2013/52.pdf){:target="_blank"} and [3](/files/papers/2011/44.pdf){:target="_blank"})
 * Gossip-based mechanism for artificial agents ([1]((/files/papers/2013/47.pdf){:target="_blank"}))
 
 **Software Engineering** - In software engineering, he studies the socialness of the software development process. His research has focused on analysing social networks of developers to understand behavioural patterns, unearthing decision-making processes from large software repositories, and extracting insights from app review data. 
-* Social networks of developers/decision-makers ([1]() and [2]())
-* Unearthing decision-making processes ([1]() and [2]())
-* Mining insights from app review data ([1]() and [2]())
-* Extracting personality types from social media data ([1]())
+* Social networks of developers/decision-makers ([1](https://www.researchgate.net/publication/321873112_Boundary_Spanners_in_Open_Source_Software_Development_A_Study_of_Python_Email_Archives) and [2](https://www.researchgate.net/publication/329403357_Formal_in_the_Informal_A_Multi-Level_Analysis_of_Core_Python_Developers'_Tweets))
+* Unearthing decision-making processes ([1](https://www.researchgate.net/publication/362677437_Unearthing_open_source_decision-making_processes_A_case_study_of_python_enhancement_proposals) and [2](https://www.researchgate.net/publication/367466341_How_are_decisions_made_in_open_source_software_communities_-_Uncovering_rationale_from_python_email_repositories))
+* Mining insights from app review data ([1](https://www.researchgate.net/publication/303515399_Approaches_for_prioritizing_feature_improvements_extracted_from_app_reviews) and [2](https://www.sciencedirect.com/science/article/pii/S0950584921002366))
 
-**Information Systems** - In the information systems domain he has led projects on the use of Artificial Intelligence (AI) for social good such as crime mapping based on newspaper data, offensive language detection and reduction in online communities, preventing the generation of useless data, and tackling energy poverty. 
-* Crime mining from newspaper data
-* Offensive langguage detection and reduction in online communities
-* Reducing useless data generation on the internet
-* Tacking energy poverty
+
+**Information Systems (topic area - AI for social good)** - In the information systems domain he has led projects on the use of Artificial Intelligence (AI) for social good such as crime mapping based on newspaper data, offensive language detection and reduction in online communities, preventing the generation of useless data, and tackling energy poverty. 
+* Crime mining from newspaper data ([1](/files/papers/2014/55.pdf))
+* Offensive langguage detection and reduction in online communities ([1](https://arxiv.org/pdf/2004.05589) and [2](https://arxiv.org/pdf/2106.02245))
+* Reducing useless data generation on the internet ([1](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=4484&context=cais))
+* Tacking energy poverty ([1](https://ieeexplore.ieee.org/document/10659334))
 
 <!-- Broadly situated in the domain of social computing, Tony studies social factors in the workings of artificial and real agents (e.g., robots and humans respectively). Thus, his research mainly spans two main areas: multi-agent systems and software engineering. He is also active in the areas of Information Systems and Computing Education.
 
