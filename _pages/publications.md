@@ -20,6 +20,9 @@ author_profile: true
 | February | $80     |
 | March    | $420    |
 
+Testing this!
+
+
 2024
 --
 >[129]\. Anavankot, A. M., Cranefield, S., & Savarimuthu, B. T. R. (2024). NEMAS: Norm entrepreneurship in multi-agent systems. Systems, 12, 187. doi: 10.3390/systems12060187
