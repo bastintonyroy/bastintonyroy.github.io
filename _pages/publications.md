@@ -15,9 +15,11 @@ author_profile: true
 
 2024
 --
+>[130]\. Corbett, J., & Savarimuthu, B. T. R. (2024). [Energy Poor No More: Intelligent Approaches to Realizing Energy Well-Being.](/files/papers/2024/130.pdf){:target="_blank"} IEEE Power and Energy Magazine, Volume: 22, Issue: 4, July-Aug. 2024.
+
 >[129]\. Anavankot, A. M., Cranefield, S., & Savarimuthu, B. T. R. (2024). NEMAS: Norm entrepreneurship in multi-agent systems. Systems, 12, 187. doi: 10.3390/systems12060187
 
->[128]\. Savarimuthu, B. T. R., & Corbett, J. (2024). Tackling energy poverty with artificial intelligence: Challenges and opportunities. Proceedings of the Americas Conference on Information Systems (AMCIS). 8, 1718. Retrieved from https://aisel.aisnet.org/amcis2024/sig_green/sig_green/8/
+>[128]\. Savarimuthu, B. T. R., & Corbett, J. (2024). [Tackling energy poverty with artificial intelligence: Challenges and opportunities.](/files/papers/2024/128.pdf){:target="_blank"} Proceedings of the Americas Conference on Information Systems (AMCIS). 8, 1718. Retrieved from https://aisel.aisnet.org/amcis2024/sig_green/sig_green/8/
 
 2023
 --
