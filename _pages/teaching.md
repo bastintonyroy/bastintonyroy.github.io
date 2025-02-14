@@ -4,7 +4,11 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-I have taught the following papers at Otago.
+I currently teach the following papers.
+*  COMP161 - Computer Programming
+*  COSC202 - Software Development
+
+I have taught the following papers in the past.
 
 100-level
 --
