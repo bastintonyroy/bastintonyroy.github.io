@@ -40,5 +40,3 @@ List of PhD, Masters and other post-graduate research students I have supervised
 26.	Danica Milic (INFO 480)
 27.	Alya Alaali	(INFO 480)
 28.	Anh Le Thu (INFO 480)
-1.  Temp
-2.  Temp 2
